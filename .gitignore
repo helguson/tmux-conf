@@ -1,0 +1,9 @@
+# whitelisting
+
+# 0. ignore everything
+*
+
+# 1. except
+!.gitignore
+!README.md
+!.tmux.conf
